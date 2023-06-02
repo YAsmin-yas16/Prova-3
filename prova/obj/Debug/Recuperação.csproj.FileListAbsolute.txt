@@ -1,0 +1,12 @@
+C:\Users\aluno\source\repos\Recuperação\bin\Debug\Recuperação.exe.config
+C:\Users\aluno\source\repos\Recuperação\bin\Debug\Recuperação.exe
+C:\Users\aluno\source\repos\Recuperação\bin\Debug\Recuperação.pdb
+C:\Users\aluno\source\repos\Recuperação\obj\Debug\Recuperação.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Recuperação\obj\Debug\Recuperação.AboutBox1.resources
+C:\Users\aluno\source\repos\Recuperação\obj\Debug\Recuperação.Form1.resources
+C:\Users\aluno\source\repos\Recuperação\obj\Debug\Recuperação.Form2.resources
+C:\Users\aluno\source\repos\Recuperação\obj\Debug\Recuperação.Properties.Resources.resources
+C:\Users\aluno\source\repos\Recuperação\obj\Debug\Recuperação.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Recuperação\obj\Debug\Recuperação.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Recuperação\obj\Debug\Recuperação.exe
+C:\Users\aluno\source\repos\Recuperação\obj\Debug\Recuperação.pdb
